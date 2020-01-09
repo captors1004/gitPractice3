@@ -6,8 +6,9 @@ public class test {
 	private String parent;
 	private String teacher;
 	
+	private String number;
 	
-	
+	//
 	
 	public test(String student, String parent) {
 		this(student, parent);
